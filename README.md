@@ -17,26 +17,24 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmiranjantandia&theme=radical">
 
 <br /> 
-<br /> 
-<summary> Spotify Playing 🎧 </summary>
+
+### Spotify Playing 🎧 
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://music.youtube.com/watch?v=Bd-2-9MOO68&list=RDAMVMBd-2-9MOO68)
 
-<br />
-<summary> Connect with me: </summary>
-<br />
 
-  style=for-the-badge&logo=figma&logoColor=white"
+### Connect with me :
+
 <a href='#' id='youtube'><img align="left" alt="rashmiranjan | YouTube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
 <a href='https://twitter.com/rashmi_tandia' id='twitter'><img align="left" alt="rashmiranjan | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href='https://www.linkedin.com/in/rashmi-ranjan-tandia/' id='linkedin'><img align="left" alt="rashmiranjan | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href='https://www.instagram.com/__expr3ss.2.impr3ss__/' id='instagram'><img align="left" alt="rashmiranjan | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
   
 <br />
-<br />
 
-<summary> Languages and Tools: </summary>
-<br />
+
+### Languages and Tools :
+
 <div align="center" style="display: flex" >
 <img  alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
