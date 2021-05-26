@@ -25,10 +25,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me :
 
-<a href='#' id='youtube'><img align="left" alt="rashmiranjan | YouTube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-<a href='https://twitter.com/rashmi_tandia' id='twitter'><img align="left" alt="rashmiranjan | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href='https://www.linkedin.com/in/rashmi-ranjan-tandia/' id='linkedin'><img align="left" alt="rashmiranjan | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href='https://www.instagram.com/__expr3ss.2.impr3ss__/' id='instagram'><img align="left" alt="rashmiranjan | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+
+<a href='#' id='youtube'><img align="left" alt="rashmiranjan | YouTube" width="28px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" /></a>
+<a href='https://twitter.com/rashmi_tandia' id='twitter'><img align="left" alt="rashmiranjan | Twitter" width="28px" src="https://image.flaticon.com/icons/png/512/733/733579.png" /></a>
+<a href='https://www.linkedin.com/in/rashmi-ranjan-tandia/' id='linkedin'><img align="left" alt="rashmiranjan | LinkedIn" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
+<a href='https://www.instagram.com/__expr3ss.2.impr3ss__/' id='instagram'><img align="left" alt="rashmiranjan | Instagram" width="26px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" /></a>
   
 <br />
 
