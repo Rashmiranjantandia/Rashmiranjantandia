@@ -25,11 +25,15 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me :
 
-
-<a href='#' id='youtube'><img align="left" alt="rashmiranjan | YouTube" width="28px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" /></a>
+[<img src="https://img.shields.io/badge/@rashmi_tandia%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/rashmi_tandia)
+[<img src="https://img.shields.io/badge/rashmi_studio%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCMG92haHffdyuRS3MN6fXYA)
+[<img src="https://img.shields.io/badge/Rashmi%20Ranjan%20-%230B65C3.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/rashmi-ranjan-tandia/)
+[<img src="https://img.shields.io/badge/__expr3ss.2.impr3ss__%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/__expr3ss.2.impr3ss__/)
+  
+<!-- <a href='#' id='youtube'><img align="left" alt="rashmiranjan | YouTube" width="28px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" /></a>
 <a href='https://twitter.com/rashmi_tandia' id='twitter'><img align="left" alt="rashmiranjan | Twitter" width="28px" src="https://image.flaticon.com/icons/png/512/733/733579.png" /></a>
 <a href='https://www.linkedin.com/in/rashmi-ranjan-tandia/' id='linkedin'><img align="left" alt="rashmiranjan | LinkedIn" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
-<a href='https://www.instagram.com/__expr3ss.2.impr3ss__/' id='instagram'><img align="left" alt="rashmiranjan | Instagram" width="26px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" /></a>
+<a href='https://www.instagram.com/__expr3ss.2.impr3ss__/' id='instagram'><img align="left" alt="rashmiranjan | Instagram" width="26px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" /></a> -->
   
 <br />
 <br />
