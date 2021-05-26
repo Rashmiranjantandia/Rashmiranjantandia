@@ -19,8 +19,8 @@ You can click the Preview link to take a look at your changes.
 <br /> 
 <br /> 
 <summary> Spotify Playing 🎧 </summary>
-<br />
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />(https://open.spotify.com/user/edjehszj8rzoxcq3nkcycpkjh)
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/edjehszj8rzoxcq3nkcycpkjh)
 
 <br />
 <summary> Connect with me: </summary>
