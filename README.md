@@ -8,21 +8,27 @@
 Rashmiranjantandia/Rashmiranjantandia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<details>
+<summary>😇 <b>My GitHub Stats</b></summary>
 <br/>
-<summary> 😇 <b> My Github Stats</b>: </summary>
-<br/>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rashmiranjantandia&show_icons=true&theme=radical&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmiranjantandia&show_icons=true&theme=radical&line_height=27" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmiranjantandia&theme=radical" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmiranjantandia&theme=radical">
+<br/>
 
-<br /> 
+<h3 align="center">Spotify Playing 🎧</h3>
 
-### Spotify Playing 🎧 
+<p align="center">
+  <a href="https://music.youtube.com/watch?v=Bd-2-9MOO68&list=RDAMVMBd-2-9MOO68">
+    <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" width="350" />
+  </a>
+</p>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://music.youtube.com/watch?v=Bd-2-9MOO68&list=RDAMVMBd-2-9MOO68)
-
-
+</details>
 ### Connect with me :
 
 [<img src="https://img.shields.io/badge/@rashmi_tandia%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/rashmi_tandia)
