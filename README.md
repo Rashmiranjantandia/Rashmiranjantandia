@@ -23,11 +23,12 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rashmiranjantandia&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rashmiranjantandia&layout=compact&theme=radical" width="48%" />
+  <img src="https://stats.dooboo.io/api?username=rashmiranjantandia" />
 </p>
 
----
+<p align="center">
+  <img src="https://stats.dooboo.io/api/top-langs/?username=rashmiranjantandia" />
+</p>
 
 ---
 
