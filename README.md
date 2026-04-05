@@ -1,47 +1,58 @@
-- 👋 Hi, I’m @Rashmiranjantandia
-- 👀 I’m interested in Front End Developer
-- 🌱 I’m currently learning Angular
-- 💞️ Ask me about anything, I am happy to help
-- 📫 I've worked on Java, Python, React and Angular
+<h1 align="center">Hi 👋, I'm Rashmi Ranjan</h1>
+<h3 align="center">🚀 Frontend Developer | React.js | AI Tools Enthusiast</h3>
 
-<!---
-Rashmiranjantandia/Rashmiranjantandia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<details>
-<summary>😇 <b>My GitHub Stats</b></summary>
-<br/>
+---
+
+### 👨‍💻 About Me:
+- 💻 Passionate about building **modern web applications**
+- ⚛️ Currently working with **React.js & AI tools**
+- 🚀 Exploring **real-world project development**
+- 🤝 Open to collaboration & opportunities
+- 💬 Ask me about **React, JavaScript, Frontend Development**
+
+---
+
+### 🛠️ Tech Stack:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashmiranjantandia&show_icons=true&theme=radical&line_height=27" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,angular,nodejs,java,python,mongodb,mysql,figma,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmiranjantandia&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmiranjantandia&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmiranjantandia&layout=compact&theme=radical" />
 </p>
 
-<br/>
+---
 
-<h3 align="center">Spotify Playing 🎧</h3>
+### 🔗 Connect with me:
 
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Bd-2-9MOO68&list=RDAMVMBd-2-9MOO68">
-    <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" width="350" />
-  </a>
+<a href="https://twitter.com/rashmi_tandia">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UCMG92haHffdyuRS3MN6fXYA">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rashmi-ranjan-tandia/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/__expr3ss.2.impr3ss__/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </p>
 
-</details>
-### Connect with me :
+---
 
-[<img src="https://img.shields.io/badge/@rashmi_tandia%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/rashmi_tandia)
-[<img src="https://img.shields.io/badge/rashmi_studio%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCMG92haHffdyuRS3MN6fXYA)
-[<img src="https://img.shields.io/badge/Rashmi%20Ranjan%20-%230B65C3.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/rashmi-ranjan-tandia/)
-[<img src="https://img.shields.io/badge/__expr3ss.2.impr3ss__%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/__expr3ss.2.impr3ss__/)
-  
-<!-- <a href='#' id='youtube'><img align="left" alt="rashmiranjan | YouTube" width="28px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" /></a>
-<a href='https://twitter.com/rashmi_tandia' id='twitter'><img align="left" alt="rashmiranjan | Twitter" width="28px" src="https://image.flaticon.com/icons/png/512/733/733579.png" /></a>
-<a href='https://www.linkedin.com/in/rashmi-ranjan-tandia/' id='linkedin'><img align="left" alt="rashmiranjan | LinkedIn" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
-<a href='https://www.instagram.com/__expr3ss.2.impr3ss__/' id='instagram'><img align="left" alt="rashmiranjan | Instagram" width="26px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" /></a> -->
-  
-<br />
+⭐ *"Building skills, projects, and a strong career in tech."*
 <br />
 
 ### Languages and Tools :
